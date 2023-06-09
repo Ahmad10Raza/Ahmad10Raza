@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 ![banner (1)](https://github.com/Ahmad10Raza/Simple_Calculator/blob/master/eagle.jpg)
 <!-- ![banner (1)](https://github.com/Ahmad10Raza/Ahmad10Raza/blob/master/Hope.jpg) -->
 <br />
-<br />
 <a href="#">
   <img src="https://github.com/Ahmad10Raza/Ahmad10Raza/blob/master/ahmad.jpg" width="400" alt="Ahmad Raza" align="right"/>
 </a>
