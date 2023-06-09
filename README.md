@@ -22,15 +22,12 @@ Here are some ideas to get you started:
 
 ![banner (1)](https://github.com/Ahmad10Raza/Simple_Calculator/blob/master/eagle.jpg)
 <!-- ![banner (1)](https://github.com/Ahmad10Raza/Ahmad10Raza/blob/master/Hope.jpg) -->
-
 <br />
 <br />
-
-
 <a href="#">
   <img src="https://github.com/Ahmad10Raza/Ahmad10Raza/blob/master/ahmad.jpg" width="400" alt="Ahmad Raza" align="right"/>
 </a>
-
+<br/>
 ### Hi, I'm **Ahmad Raza**, a Data Scientist with a passion for solving complex problems with data.
 - 💻 I have worked as a Project on 10 End-to-End ML project and 30+ ML Model.
 - 🚀 I’m currently looking for a Intership with a role of Data Scientist.
