@@ -20,13 +20,14 @@ Here are some ideas to get you started:
 
 <!-- <img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="280px" height="200px" /> -->
 
-![banner (1)](https://github.com/Ahmad10Raza/Simple_Calculator/blob/master/eagle.jpg)
+![banner (1)](https://github.com/Ahmad10Raza/Simple_Calculator/blob/master/eagle.jpg)![banner (1)](https://github.com/Ahmad10Raza/Ahmad10Raza/blob/master/Hope.jpg)
+
 <br />
 <br />
 
 
 <a href="#">
-  <img src="https://github.com/Ahmad10Raza/Simple_Calculator/blob/master/dev3.svg" width="400" alt="Ahmad Raza" align="right"/>
+  <img src="https://github.com/Ahmad10Raza/Ahmad10Raza/blob/master/ahmad.jpg" width="400" alt="Ahmad Raza" align="right"/>
 </a>
 
 ### Hi, I'm 𝗔𝘆𝘂𝘀𝗵 𝗞𝗮𝗻𝗱𝘂𝗿𝗶, a passionate **Data Scientist** from 𝗜𝗻𝗱𝗶𝗮!
@@ -54,8 +55,7 @@ Here are some ideas to get you started:
 <a href="https://discord.gg/Ahmad Raza#7313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ahmad Raza#7313" height="30" width="40" /></a>
 </p>
 
-<span> [𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 𝐖𝐞𝐛𝐬𝐢𝐭𝐞](#)&emsp;|&
-emsp;[𝐑𝐞𝐬𝐮𝐦𝐞](https://drive.google.com/file/d/1nNAwlvpcLgZaJK2i3maStbt_bnOA0yBI/view?usp=sharing) </span>
+<span> [𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 𝐖𝐞𝐛𝐬𝐢𝐭𝐞](#) |& [𝐑𝐞𝐬𝐮𝐦𝐞](https://drive.google.com/file/d/1nNAwlvpcLgZaJK2i3maStbt_bnOA0yBI/view?usp=sharing) </span>
 
 <br />
 
@@ -90,7 +90,7 @@ emsp;[𝐑𝐞𝐬𝐮𝐦𝐞](https://drive.google.com/file/d/1nNAwlvpcLgZaJK2
 
 ## ⭐ Thanks for the visit!
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ahmad10Raza&theme=radical)](https://github.com/Ahmad10raza)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Ahmad10Raza&theme=radical)](https://github.com/Ahmad10raza) -->
 <br />
 <br />
 <br />
