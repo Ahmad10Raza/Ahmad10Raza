@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 
 <!-- <img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="280px" height="200px" /> -->
 
-![banner (1)](https://github.com/Ahmad10Raza/Simple_Calculator/blob/master/eagle.jpg)![banner (1)](https://github.com/Ahmad10Raza/Ahmad10Raza/blob/master/Hope.jpg)
+![banner (1)](https://github.com/Ahmad10Raza/Simple_Calculator/blob/master/eagle.jpg)
+<!-- ![banner (1)](https://github.com/Ahmad10Raza/Ahmad10Raza/blob/master/Hope.jpg) -->
 
 <br />
 <br />
@@ -30,7 +31,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/Ahmad10Raza/Ahmad10Raza/blob/master/ahmad.jpg" width="400" alt="Ahmad Raza" align="right"/>
 </a>
 
-### Hi, I'm 𝗔𝘆𝘂𝘀𝗵 𝗞𝗮𝗻𝗱𝘂𝗿𝗶, a passionate **Data Scientist** from 𝗜𝗻𝗱𝗶𝗮!
+### Hi, I'm **Ahmad Raza**, a Data Scientist with a passion for solving complex problems with data.
 - 💻 I have worked as a Project on 10 End-to-End ML project and 30+ ML Model.
 - 🚀 I’m currently looking for a Intership with a role of Data Scientist.
 - 🔭 I’m currently working with Machine Learning, Deep Learning, NLP.
