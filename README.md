@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 <!-- ## Connect with me -->
 
-[<h3 align="left">📞  Connect with me:</h3>
+<h3 align="left">📞  Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/ahmad10raza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ahmad10raza" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ahmad10raza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad10raza" height="30" width="40" /></a>
@@ -78,26 +78,36 @@ Here are some ideas to get you started:
 
 <p align="left">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ayush-Kanduri&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ahmad10Raza&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <br />
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmad10raza&theme=radical&show_icons=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmad10Raza&theme=radical&show_icons=true&hide_border=true)
 <br />
 [![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad10Raza&theme=radical&hide_border=true&layout=compact)](https://github.com/Ahmad10Raza/github-readme-stats)
 <br />
 <img src="https://activity-graph.herokuapp.com/graph?username=Ahmad10Raza&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
-
 </p>
 
 ## ⭐ Thanks for the visit!
+**Quote Of The Day**
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Ahmad10Raza&theme=radical)](https://github.com/Ahmad10raza) -->
-<br />
+## ****Our Life is Reflection Of Our Attitude****
+
+[![Visitor Count](https://visitcount.itsvg.in/api?id=Ahmad10Raza&icon=0&color=0)](https://visitcount.itsvg.in)
 <br />
 <br />
 ![Quote of the Day](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br />
 <br /> 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&lines=%E2%80%9CBelieve+in+yourself.%E2%80%9D)](https://git.io/typing-svg)
+
+ 
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Ahmad10Raza&theme=radical)](https://github.com/Ahmad10raza) -->
+
+<!-- [![Quote of the Day](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)]
+<br />
+<br /> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&lines=%E2%80%9CBelieve+in+yourself.%E2%80%9D)](https://git.io/typing-svg) -->
+
 
 
 
