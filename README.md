@@ -27,8 +27,9 @@ Here are some ideas to get you started:
   <img src="https://github.com/Ahmad10Raza/Ahmad10Raza/blob/master/ahmad.jpg" width="400" alt="Ahmad Raza" align="right"/>
 </a>
 <br/>
-### Hi, I'm **Ahmad Raza**, a Data Scientist with a passion for solving complex problems with data.
-- 💻 I have worked as a Project on 10 End-to-End ML project and 30+ ML Model.
+
+### Hi, I'm Ahmad Raza, a Data Scientist with a passion for solving complex problems with data.
+- 💻 I have worked as a Project on many End-to-End ML project and  ML Model.
 - 🚀 I’m currently looking for a Intership with a role of Data Scientist.
 - 🔭 I’m currently working with Machine Learning, Deep Learning, NLP.
 - 🌱 I’m currently learning Data Scince & building Projects in public.
