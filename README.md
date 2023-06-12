@@ -29,13 +29,13 @@ Here are some ideas to get you started:
 <br/>
 
 ### Hi, I'm Ahmad Raza, a Data Scientist with a passion for solving complex problems with data.
-- 💻 I have worked as a Project on many End-to-End ML project and  ML Model.
+- 💻 I have worked on many  End-to-End ML project and  ML Model.
 - 🚀 I’m currently looking for a Intership with a role of Data Scientist.
 - 🔭 I’m currently working with Machine Learning, Deep Learning, NLP.
 - 🌱 I’m currently learning Data Scince & building Projects in public.
 - 👯 I’m looking to collaborate with people with Amazing Ideas.
 - ⚡ Fun fact: I love connecting & socializing with new people.
-- 🚀 I enjoy my Data Science journey and Felling Great. 
+- 🚀 I enjoy my Data Science journey. 
 <br />
 
 <!-- ## Connect with me -->
