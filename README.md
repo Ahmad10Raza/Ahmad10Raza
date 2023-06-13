@@ -24,9 +24,10 @@ Here are some ideas to get you started:
 <!-- ![banner (1)](https://github.com/Ahmad10Raza/Ahmad10Raza/blob/master/Hope.jpg) -->
 <br />
 <a href="#">
-  <img src="https://github.com/Ahmad10Raza/Ahmad10Raza/blob/master/ahmad.jpg" width="400" alt="Ahmad Raza" align="right"/>
+  <img src="https://github.com/Ahmad10Raza/Ahmad10Raza/blob/master/Ahmad10Raza.jpg" width="400" alt="Ahmad Raza" align="right"/>
 </a>
 <br/>
+<!-- https://github.com/Ahmad10Raza/Ahmad10Raza/blob/master/Ahmad10Raza.jpg -->
 
 ### Hi, I'm Ahmad Raza, a Data Scientist with a passion for solving complex problems with data.
 - 💻 I have worked on many  End-to-End ML project and  ML Model.
