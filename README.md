@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <br/>
 <!-- https://github.com/Ahmad10Raza/Ahmad10Raza/blob/master/Ahmad10Raza.jpg -->
 
-### Hi, I'm Ahmad Raza, a Data Scientist with a passion for solving complex problems with data.
+### Hi, I'm Ahmad Raza, a Aspiring Data Scientist with a passion for solving complex problems with data.
 - 💻 I have worked on many  End-to-End ML project and  ML Model.
 - 🚀 I’m currently looking for a Intership with a role of Data Scientist.
 - 🔭 I’m currently working with Machine Learning, Deep Learning, NLP.
