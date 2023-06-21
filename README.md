@@ -54,7 +54,9 @@ Here are some ideas to get you started:
 <a href="https://discord.gg/Ahmad Raza#7313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ahmad Raza#7313" height="30" width="40" /></a>
 </p>
 
-<span> [𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 𝐖𝐞𝐛𝐬𝐢𝐭𝐞](#) |& [𝐑𝐞𝐬𝐮𝐦𝐞](https://drive.google.com/file/d/1nNAwlvpcLgZaJK2i3maStbt_bnOA0yBI/view?usp=sharing) </span>
+<span> [𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 𝐖𝐞𝐛𝐬𝐢𝐭𝐞](#) 
+
+### [𝐑𝐞𝐬𝐮𝐦𝐞](https://drive.google.com/file/d/1iWZZetcCUXyBvIq-fVbKjHD0Val4h0fq/view?usp=drive_link) </span>
 
 <br />
 
