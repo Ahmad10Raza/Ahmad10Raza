@@ -17,15 +17,14 @@
 
 <!-- <img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="280px" height="200px" /> -->
 
-![banner (1)](https://github.com/Ahmad10Raza/Simple_Calculator/blob/master/eagle.jpg)
+<!--![banner (1)](https://github.com/Ahmad10Raza/Simple_Calculator/blob/master/eagle.jpg)-->
 <!-- ![banner (1)](https://github.com/Ahmad10Raza/Ahmad10Raza/blob/master/Hope.jpg) -->
 <br />
 <a href="#">
   <img src="https://github.com/Ahmad10Raza/Ahmad10Raza/blob/master/Ahmad10Raza.jpg" width="400" alt="Ahmad Raza" align="right"/>
 </a>
-<br/>
-<!-- https://github.com/Ahmad10Raza/Ahmad10Raza/blob/master/Ahmad10Raza.jpg -->
 
+<!-- https://github.com/Ahmad10Raza/Ahmad10Raza/blob/master/Ahmad10Raza.jpg -->
 ### Hi, I'm Ahmad Raza, a Aspiring Data Scientist with a passion for solving complex problems with data.
 - 💻 I have worked on many  End-to-End ML project and  ML Model.
 - 🚀 I’m currently looking for a Intership with a role of Data Scientist.
