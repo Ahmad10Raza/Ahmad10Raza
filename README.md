@@ -21,7 +21,7 @@
 <!-- ![banner (1)](https://github.com/Ahmad10Raza/Ahmad10Raza/blob/master/Hope.jpg) -->
 <br />
 <a href="#">
-  <img src="https://github.com/Ahmad10Raza/Ahmad10Raza/blob/master/Ahmad10Raza.jpg" width="400" alt="Ahmad Raza" align="right"/>
+  <img src="https://github.com/Ahmad10Raza/Ahmad10Raza/blob/master/AHMAD10RAZA.png" width="400" alt="Ahmad Raza" align="right"/>
 </a>
 
 <!-- https://github.com/Ahmad10Raza/Ahmad10Raza/blob/master/Ahmad10Raza.jpg -->
