@@ -32,10 +32,10 @@
 - 🌱 I’m currently learning Data Scince & building Projects in public.
 - 👯 I’m looking to collaborate with people with Amazing Ideas.
 - ⚡ Fun fact: I love connecting & socializing with new people.
-- 🚀 I enjoy my Data Science journey. 
+<!-- - 🚀 I enjoy my Data Science journey.  -->
 <br />
 
-<!--  -->
+ 
 
 <h3 align="left">📞  Connect with me:</h3>
 <p align="left">
