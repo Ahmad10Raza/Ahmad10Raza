@@ -52,7 +52,7 @@
 
 <span> [𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 𝐖𝐞𝐛𝐬𝐢𝐭𝐞](#) 
 
-### [𝐑𝐞𝐬𝐮𝐦𝐞](https://drive.google.com/file/d/1xxJCK06v-qF0xsQYqngEPuq2LIaaJJ6W/view?usp=sharing) </span>
+### [𝐑𝐞𝐬𝐮𝐦𝐞](https://drive.google.com/file/d/1I7w195iCe9Zp46D28E10JCVQqbo2j_IZ/view?usp=drivesdk) </span>
 
 <br />
 
