@@ -52,9 +52,7 @@
 
 <span> [𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 𝐖𝐞𝐛𝐬𝐢𝐭𝐞](https://ahmad10raza.github.io/Ahmad-Raza.github.io/) 
 
-### [𝐑𝐞𝐬𝐮𝐦𝐞](0Write short notes on Probably Approximately Correct (PAC) learning model
-
-) </span>
+### [𝐑𝐞𝐬𝐮𝐦𝐞](#) </span>
 
 <br />
 
