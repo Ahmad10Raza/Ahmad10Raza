@@ -75,13 +75,15 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad10Raza&theme=radical&_border=true&hide_progress=true)](https://github.com/Ahmad10Raza/github-readme-stats)
 
 ## ⭐ Thanks for the visit!
-**Quote Of The Day**
 
-## ****Our Life is Reflection Of Our Attitude****
+
 
 [![Visitor Count](https://visitcount.itsvg.in/api?id=Ahmad10Raza&icon=0&color=0)](https://visitcount.itsvg.in)
 <br />
 <br />
+
+**Quote Of The Day**
+
 ![Quote of the Day](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br />
 <br /> 
