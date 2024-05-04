@@ -1,5 +1,4 @@
 <!-- ### Hi there 👋 -->
-
 <!--
 **Ahmad Raza/Ahmad10Raza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 - 🔭 I’m currently working on ...
@@ -11,8 +10,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact:
 -->
-
-
 # Welcome! Happy To See You Here!&ensp;<img src="./wave.gif" width="37px" height="37px" />
 
 <!-- <img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="280px" height="200px" /> -->
