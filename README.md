@@ -11,15 +11,12 @@
 - ⚡ Fun fact:
 -->
 # Welcome! Happy To See You Here!&ensp;<img src="./wave.gif" width="37px" height="37px" />
-
 <!-- <img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="280px" height="200px" /> -->
 
 <!--![banner (1)](https://github.com/Ahmad10Raza/Simple_Calculator/blob/master/eagle.jpg)-->
 <!-- ![banner (1)](https://github.com/Ahmad10Raza/Ahmad10Raza/blob/master/Hope.jpg) -->
-<br />
-<a href="#">
- <!-- <img src="https://github.com/Ahmad10Raza/Ahmad10Raza/blob/master/AHMAD10RAZA.png" width="400" alt="Ahmad Raza" align="right"/> -->
-</a>
+
+
 
 <!-- https://github.com/Ahmad10Raza/Ahmad10Raza/blob/master/Ahmad10Raza.jpg -->
 ### Hi, I'm Ahmad Raza, a Aspiring Data Scientist with a passion for solving complex problems with data.
@@ -74,8 +71,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad10Raza&theme=radical&_border=true&hide_progress=true)](https://github.com/Ahmad10Raza/github-readme-stats)
 
 ## ⭐ Thanks for the visit!
-
-
 
 [![Visitor Count](https://visitcount.itsvg.in/api?id=Ahmad10Raza&icon=0&color=0)](https://visitcount.itsvg.in)
 <br />
