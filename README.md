@@ -24,7 +24,7 @@
 - 🚀 I’m currently looking for a Intership with a role of Data Scientist.
 - 🔭 I’m currently working with Machine Learning, Deep Learning, NLP.
 - 🌱 I’m currently learning Data Scince & building Projects in public.
-- 👯 I’m looking to collaborate with people with Amazing Ideas.
+- 👯 I’m looking to collaborate with people with Amazing Ideas. 
 - ⚡ Fun fact: I love connecting & socializing with new people.
 <!-- - 🚀 I enjoy my Data Science journey.  -->
 <br />
@@ -40,7 +40,7 @@
 <a href="https://medium.com/@mr.hacker11410814" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mr.hacker11410814" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ahmad10raza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahmad10raza" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ahmad_raza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahmad_raza" height="30" width="40" /></a>
-<!-- <a href="https://www.hackerearth.com/ahmad10raza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="ahmad10raza" height="30" width="40" /></a> -->
+
 <a href="https://discord.gg/Ahmad Raza#7313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ahmad Raza#7313" height="30" width="40" /></a>
 </p>
 
