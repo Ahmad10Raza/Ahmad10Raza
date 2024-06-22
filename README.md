@@ -25,7 +25,7 @@
 - 🔭 I’m currently working with Machine Learning, Deep Learning, NLP.
 - 🌱 I’m currently learning Data Scince & building Projects in public.
 - 👯 I’m looking to collaborate with people with Amazing Ideas. 
-- ⚡ Fun fact: I love connecting & socializing with new people.
+- ⚡ Fun fact: I love connecting & socializing with new people
 <!-- - 🚀 I enjoy my Data Science journey.  -->
 <br />
 
