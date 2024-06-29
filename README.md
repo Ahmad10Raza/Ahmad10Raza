@@ -8,7 +8,7 @@
 - 💬 Ask me about ...
 - 📫 How to reach me
 - 😄 Pronouns: ...
-- ⚡ Fun fact:
+- ⚡ Fun
 -->
 # Welcome! Happy To See You Here!&ensp;<img src="./wave.gif" width="37px" height="37px" />
 <!-- <img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="280px" height="200px" /> -->
